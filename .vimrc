@@ -1,4 +1,3 @@
-
 set number
 set tabstop=4
 set shiftwidth=4
@@ -45,7 +44,7 @@ Plugin 'tomtom/tlib_vim'
 Plugin 'garbas/vim-snipmate'
 Plugin 'honza/vim-snippets'
 Plugin 'preservim/nerdtree'
-Plugin 'OmniSharp/omnisharp-vim'
+
 
 Plugin 'inside/vim-search-pulse'
 Plugin 'RRethy/vim-illuminate'
@@ -88,44 +87,7 @@ nnoremap <C-o><C-d> :OmniSharpGotoDefinition<CR>
 nnoremap <C-o><C-d><C-p> :OmniSharpPreviewDefinition<CR>
 nnoremap <C-o><C-r> :!dotnet run
 
-"let g:OmniSharp_popup_mappings = {
-"\ 'sigNext': '<C-n>',
-"\ 'sigPrev': '<C-p>',
-"\ 'lineDown': ['<C-e>', 'j'],
-"\ 'lineUp': ['<C-y>', 'k']
-"\}
-
-let g:OmniSharp_selector_ui = 'ctrlp'  " Use ctrlp.vim
-
-let g:ale_linters = {
-\ 'cs': ['OmniSharp']
-\}
-
-let g:OmniSharp_popup_options = {
-\ 'winblend': 30,
-\ 'winhl': 'Normal:Normal'
-\}
 let g:syntastic_cs_checkers = ['code_checker']
-let g:OmniSharp_highlight_groups = {
-\ 'Comment': 'NonText',
-\ 'ClassName': 'csClassType',
-\ 'LocalName': 'csUnicodeNumber',
-\ 'NamespaceName': 'csClassType',
-\ 'DelegateName': 'csClassType',
-\ 'FieldName': 'csUnicodeNumber',
-\ 'EnumName': 'csUnicodeNumber',
-\ 'PropertyName': 'csUnicodeNumber',
-\ 'ModuleName': 'csClassType',
-\ 'XmlDocCommentName': 'Identifier',
-\ 'XmlDocCommentText': 'NonText'
-\}
-
-let g:OmniSharp_diagnostic_overrides = {
-\ 'IDE0010': {'type': 'I'},
-\ 'IDE0055': {'type': 'W', 'subtype': 'Style'},
-\ 'CS8019': {'type': 'None'},
-\ 'RemoveUnnecessaryImportsFixable': {'type': 'None'}
-\}
 
 set backspace=indent,eol,start
 
@@ -158,13 +120,6 @@ let g:ycm_language_server =
 
 
 let g:ycm_key_list_stop_completion = ['<C-y>']
-
-let g:OmniSharp_server_stdio = 1
-let g:OmniSharp_highlight_types = 2
-
-let g:OmniSharp_want_snippet = 1
-let g:OmniSharp_highlighting = 1 " 1 if u use dotnet
-let g:OmniSharp_start_without_solution = 1 " 1 too see up
 
 let g:UltiSnipsRemoveSelectModeMappings = 0
 let g:UltiSnipsExpandTrigger = '<C-l>l'
