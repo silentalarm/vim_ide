@@ -1,3 +1,4 @@
+
 set number
 set tabstop=4
 set shiftwidth=4
@@ -44,17 +45,16 @@ Plugin 'tomtom/tlib_vim'
 Plugin 'garbas/vim-snipmate'
 Plugin 'honza/vim-snippets'
 Plugin 'preservim/nerdtree'
-
+Plugin 'tklengyel/valgrind'
 
 Plugin 'inside/vim-search-pulse'
 Plugin 'RRethy/vim-illuminate'
 Plugin 'vim-airline/vim-airline'
 Plugin 'flazz/vim-colorschemes'
 Plugin 'tomasiser/vim-code-dark'
-"Plugin 'jeaye/color_coded'
 Plugin 'dunstontc/vim-vscode-theme'
 Plugin 'dense-analysis/ale'
-
+Plugin 'kien/ctrlp.vim'
 Plugin 'ycm-core/YouCompleteMe'
 Plugin 'SirVer/ultisnips'
 
@@ -76,16 +76,10 @@ let b:cb_jump_on_close = 1
 "inoremap <expr> <Tab> pumvisible() ? '<C-n>' :                                                                                                                    
 "\ getline('.')[col('.')-2] =~# '[[:alnum:].-_#$]' ? '<C-x><C-o>' : '<Tab>'
 
-let g:color_coded_filetypes = ['cs', 'cpp', 'objc']
-
 let g:asyncomplete_auto_popup = 1
 let g:asyncomplete_auto_completeopt = 0
 let g:asyncomplete_force_refresh_on_context_changed = 1
 
-nnoremap <C-o><C-u> :OmniSharpFindUsages<CR>
-nnoremap <C-o><C-d> :OmniSharpGotoDefinition<CR>
-nnoremap <C-o><C-d><C-p> :OmniSharpPreviewDefinition<CR>
-nnoremap <C-o><C-r> :!dotnet run
 
 let g:syntastic_cs_checkers = ['code_checker']
 
@@ -118,6 +112,7 @@ let g:ycm_language_server =
   \    }
   \ ]
 
+let g:ycm_global_ycm_extra_conf = '/Users/ctristan/.vim/bundle/YouCompleteMe/.ycm_extra_conf.py'
 
 let g:ycm_key_list_stop_completion = ['<C-y>']
 
@@ -128,6 +123,4 @@ let g:UltiSnipsJumpBackwardTrigger = '<C-t>'
 
 colorscheme codedark
 let g:airline_theme = 'codedark'
-
-
 
