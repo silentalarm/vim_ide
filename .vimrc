@@ -1,4 +1,3 @@
-
 set number
 set tabstop=4
 set shiftwidth=4
@@ -25,11 +24,7 @@ endif
 
 set runtimepath^=~/.vim/bundle/ctrlp.vim
 
-set nocompatible              " be iMproved, required
-"filetype off                  " required
-
-"color tema
-
+set nocompatible              " be iMp
 
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
@@ -46,7 +41,6 @@ Plugin 'garbas/vim-snipmate'
 Plugin 'honza/vim-snippets'
 Plugin 'preservim/nerdtree'
 Plugin 'tklengyel/valgrind'
-
 Plugin 'inside/vim-search-pulse'
 Plugin 'RRethy/vim-illuminate'
 Plugin 'vim-airline/vim-airline'
@@ -57,7 +51,7 @@ Plugin 'dense-analysis/ale'
 Plugin 'kien/ctrlp.vim'
 Plugin 'ycm-core/YouCompleteMe'
 Plugin 'SirVer/ultisnips'
-
+Plugin 'vim-airline/vim-airline-themes'
 Plugin 'LucHermitte/lh-vim-lib'
 Plugin 'LucHermitte/lh-tags'
 Plugin 'LucHermitte/lh-dev'
@@ -71,10 +65,6 @@ filetype plugin indent on    " required
 "refactor
 let b:usemarks         = 0
 let b:cb_jump_on_close = 1
-
-"omnisharp
-"inoremap <expr> <Tab> pumvisible() ? '<C-n>' :                                                                                                                    
-"\ getline('.')[col('.')-2] =~# '[[:alnum:].-_#$]' ? '<C-x><C-o>' : '<Tab>'
 
 let g:asyncomplete_auto_popup = 1
 let g:asyncomplete_auto_completeopt = 0
@@ -120,6 +110,7 @@ let g:UltiSnipsRemoveSelectModeMappings = 0
 let g:UltiSnipsExpandTrigger = '<C-l>l'
 let g:UltiSnipsJumpForwardTrigger = '<C-g>'
 let g:UltiSnipsJumpBackwardTrigger = '<C-t>'
+
 
 colorscheme molokai
 let g:airline_theme = 'molokai'
