@@ -121,6 +121,6 @@ let g:UltiSnipsExpandTrigger = '<C-l>l'
 let g:UltiSnipsJumpForwardTrigger = '<C-g>'
 let g:UltiSnipsJumpBackwardTrigger = '<C-t>'
 
-colorscheme codedark
-let g:airline_theme = 'codedark'
+colorscheme molokai
+let g:airline_theme = 'molokai'
 
