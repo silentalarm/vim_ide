@@ -4,4 +4,8 @@
 
 Установка потребует терпения но результат стоит того!
 
+Начнем:
 
+Для начала тебе потребуется homebrew:
+
+> /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)" 
