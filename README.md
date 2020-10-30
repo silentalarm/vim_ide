@@ -7,6 +7,10 @@
 + [Установка](#Install)
 
 
+Примеры
+=======
+
+<iframe src='//gifs.com/embed/snippets-5QYQAK' frameborder='0' scrolling='no' width='796px' height='454px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 ##### <a name="Install"></a>
 
