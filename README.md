@@ -10,13 +10,15 @@
 Примеры
 =======
 
-Можно вставлять сразу готовые конструкции:
-[![Demo CountPages alpha](https://j.gifs.com/5QYQAK.gif)]
-
-Происходит проверка на ошибки, ранее используемые имена(например имена переменных чтобы не печатать просто нажимаем Tab),
+   Можно вставлять сразу готовые конструкции:
+![Demo CountPages alpha](https://j.gifs.com/5QYQAK.gif)
+   Происходит проверка на ошибки, ранее используемые имена(например имена переменных чтобы не печатать просто нажимаем Tab),
 при открытии скобки, кавычки, фигурной скобки появляются закрывающие:
-[![Demo CountPages alpha](https://j.gifs.com/r8O8g4.gif)]
-
+![Demo CountPages alpha](https://j.gifs.com/r8O8g4.gif)
+    Рефакторинг:
+![Demo CountPages alpha](https://j.gifs.com/WL4LjQ.gif)
+    Дерево проекта для быстрого переключения между файлами:
+![Demo CountPages alpha](https://j.gifs.com/5QYQ1K.gif)
 ##### <a name="Install"></a>
 
 Установка
