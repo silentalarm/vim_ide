@@ -114,7 +114,7 @@ let g:UltiSnipsExpandTrigger = '<C-l>l'
 let g:UltiSnipsJumpForwardTrigger = '<C-g>'
 let g:UltiSnipsJumpBackwardTrigger = '<C-t>'
 
-"color theme :colorscheme in vimfor preview
+"color theme :colorscheme in vim for preview
 colorscheme molokai "codedark
-let g:airline_theme = 'codedark'
+let g:airline_theme = 'molokai'
 
