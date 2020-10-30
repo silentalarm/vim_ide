@@ -193,6 +193,10 @@ https://github.com/jeaye/color_coded
 
 
 ##### <a name="Kont"></a>
+
+Контакты
+========
+
 Если возникли вопросы или что то пошло не так пишите - мой ник в Intra42 как и в Slack: ctristan, Telegram @nan_deska
                                                                                              
 
