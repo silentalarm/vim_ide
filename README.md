@@ -1,5 +1,5 @@
 # Кастомный .vimrc с кучей удобных плагинов
-![Demo CountPages alpha](https://d.radikal.ru/d17/2010/03/1b475f23664e.png)
+![Demo CountPages alpha](https://a.radikal.ru/a35/2010/5e/96de93278ea5.png)
 
 
 Содержание
