@@ -59,7 +59,7 @@ FAQ
 
    Рефакторинг:
     
-![Demo CountPages alpha](https://j.gifs.com/WL4LjQ.gif)
+![Demo CountPages alpha](https://j.gifs.com/AN4NWP.gif)
 
    Дерево проекта для быстрого переключения между файлами:
    
