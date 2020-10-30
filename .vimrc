@@ -1,3 +1,7 @@
+"custom vim - IDE
+"git - https://github.com/s1lentalarm/vimrc/
+" voprosi? - Telegram @nan_deska Slack - ctristan
+
 set number "show string id
 set tabstop=4 "spaces in one tab
 set shiftwidth=4 "spaces on new line
