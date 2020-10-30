@@ -137,7 +137,6 @@ FAQ
 Готово!
 Осталось перезайти в терминал и наслаждатся удобным вимом :)
 
-Если возникли вопросы или что то пошло не так пишите - мой ник в Intra42 как и в Slack: ctristan, Telegram @nan_deska
 
 ##### <a name="Plugs"></a>
 
@@ -190,7 +189,8 @@ https://github.com/jeaye/color_coded
 
 
 
-
+Если возникли вопросы или что то пошло не так пишите - мой ник в Intra42 как и в Slack: ctristan, Telegram @nan_deska
+                                                                                        ---------        
 
 
 
