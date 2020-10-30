@@ -101,7 +101,7 @@ FAQ
     brew install vim cmake go
 
 Эти пакеты необходимы для распаковки и корректной работы плагинов. 
-Так ну с homebrew мы разобрались, теперь приступим к установки плагинов для вима, начнем с самого главного - Vundle, просто пропишите это в терминал:
+Так ну с homebrew мы разобрались, теперь приступим к установке плагинов для вима, начнем с самого главного - Vundle, просто пропишите это в терминал:
 
     git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
@@ -199,9 +199,3 @@ https://github.com/jeaye/color_coded
 
 Если возникли вопросы или что то пошло не так пишите - мой ник в Intra42 как и в Slack: ctristan, Telegram @nan_deska
                                                                                              
-
-
-
-
-
-
