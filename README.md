@@ -146,26 +146,46 @@ FAQ
 
 
 https://github.com/VundleVim/Vundle.vim
+
 https://github.com/tpope/vim-fugitive
+
 https://github.com/MarcWeber/vim-addon-mw-utils
+
 https://github.com/tomtom/tlib_vim
+
 https://github.com/garbas/vim-snipmate
+
 https://github.com/honza/vim-snippets
+
 https://github.com/SirVer/ultisnips
+
 https://github.com/preservim/nerdtree
+
 https://github.com/tklengyel/valgrind
+
 https://github.com/inside/vim-search-pulse
+
 https://github.com/RRethy/vim-illuminate
+
 https://github.com/vim-airline/vim-airline
+
 https://github.com/flazz/vim-colorschemes
+
 https://github.com/tomasiser/vim-code-dark
+
 https://github.com/dunstontc/vim-vscode-theme
+
 https://github.com/vim-airline/vim-airline-themes
+
 https://github.com/dense-analysis/ale
+
 https://github.com/kien/ctrlp.vim
+
 https://github.com/ycm-core/YouCompleteMe
+
 https://github.com/LucHermitte/vim-refactor
-github.com/jeaye/color_coded
+
+https://github.com/jeaye/color_coded
 
 
 
