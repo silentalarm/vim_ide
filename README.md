@@ -10,7 +10,7 @@
 Примеры
 =======
 
-<iframe src='//gifs.com/embed/snippets-5QYQAK' frameborder='0' scrolling='no' width='796px' height='454px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+[![Demo CountPages alpha](https://j.gifs.com/5QYQAK.gif)]
 
 ##### <a name="Install"></a>
 
