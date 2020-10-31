@@ -51,8 +51,7 @@ Plugin 'honza/vim-snippets'
 Plugin 'SirVer/ultisnips'
 "tree CTRL + N
 Plugin 'preservim/nerdtree'
-"memory leak
-Plugin 'tklengyel/valgrind'
+"
 Plugin 'inside/vim-search-pulse'
 "hightlighting varible on your cursor
 Plugin 'RRethy/vim-illuminate'
