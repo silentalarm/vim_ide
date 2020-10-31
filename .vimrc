@@ -77,7 +77,7 @@ Plugin 'LucHermitte/lh-style'
 Plugin 'LucHermitte/lh-brackets'
 Plugin 'LucHermitte/vim-refactor'
 "hightlighting code 
-Plugin 'jeaye/color_coded'
+"Plugin 'jeaye/color_coded'
 call vundle#end()
 filetype plugin indent on
 
@@ -85,7 +85,7 @@ filetype plugin indent on
 let b:usemarks         = 0
 let b:cb_jump_on_close = 1
 
-let g:color_coded_enabled = 1
+"let g:color_coded_enabled = 1
 let g:color_coded_filetypes = ['c', 'cs', 'cpp', 'objc']
 
 let g:ycm_language_server = 
