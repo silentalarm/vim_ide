@@ -164,9 +164,15 @@ FAQ
 
         sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
    
-После установки oh-my-zsh зайдите в папку vim_ide и выполните команду в терминале:
+После установки oh-my-zsh зайдите в папку vim_ide и выполните команду в терминале - 
 
-        ./copy_files.sh
+Если вы устанавливаете в школе то:
+
+        ./install_sc.sh
+        
+Если вы устанавливаете для дома:
+
+        ./install_h.sh
 
 Готово!
 
