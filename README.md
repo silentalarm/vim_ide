@@ -224,8 +224,6 @@ https://github.com/SirVer/ultisnips
 
 https://github.com/preservim/nerdtree
 
-https://github.com/tklengyel/valgrind
-
 https://github.com/inside/vim-search-pulse
 
 https://github.com/RRethy/vim-illuminate
