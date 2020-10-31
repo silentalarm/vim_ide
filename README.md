@@ -17,7 +17,7 @@
 
 + [Контакты](#Kont)
 
-
++ [Лицензия](#Kont)
 
 
 
@@ -243,4 +243,9 @@ https://github.com/42Paris/42header
 ========
 
 Если возникли вопросы или что то пошло не так пишите - мой ник в Intra42 как и в Slack: ctristan, Telegram @nan_deska
+
+Лицензия
+========
+
+В моем проекте я использую [The Unlicense](LICENSE)
                                                                                              
