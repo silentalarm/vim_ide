@@ -141,7 +141,7 @@ FAQ
 
 И используйте эту команду в терминале:
 
-    cp vim_ide/req/vimrc ~/
+    cp vim_ide/req/.vimrc ~/
 
 Затем : 
     
