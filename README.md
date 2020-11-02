@@ -126,7 +126,7 @@ FAQ
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
 
-После установки homebrew нужно ввести в терминал:
+После установки homebrew  нужно ввести в терминал:
    
     brew install vim cmake go
 
