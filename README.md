@@ -13,7 +13,7 @@
 
 + [Установка](#Install)
 
-     +[color_coded](#Color)
+     [color_coded](#Color)
 
 + [Ссылки на все плагины](#Plugs)
 
@@ -234,7 +234,8 @@ color_coded
 
       make clean && make clean_clang
       
-Готово теперь у вас установлен color_coded, могут быть не точности в подсвечивании более подробно о плагине можно прочитать [тут](https://github.com/jeaye/color_coded)
+Готово!
+Теперь у вас установлен color_coded, могут быть не точности в подсвечивании (позже пофикшу) более подробно о плагине можно прочитать - [тут](https://github.com/jeaye/color_coded)
 
 ##### <a name="Plugs"></a>
 
