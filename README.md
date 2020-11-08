@@ -115,11 +115,11 @@ FAQ
 
    Рефакторинг:
     
-<img src="https://j.gifs.com/AN4NWP.gif" width="640" height="400" />
+<img src="https://j.gifs.com/AN4NWP.gif" width="640" height="350" />
 
    Дерево проекта для быстрого переключения между файлами:
 
-<img src="https://j.gifs.com/5QYQ1K.gif" width="640" height="480" />
+<img src="https://j.gifs.com/5QYQ1K.gif" width="640" height="400" />
 
 ##### <a name="Find"></a>
   Удобный и понтынй поиск по тексту:
