@@ -124,7 +124,7 @@ FAQ
 ##### <a name="Find"></a>
   Удобный и понтынй поиск по тексту:
 
-![Demo CountPages alpha](https://j.gifs.com/xnXWyr.gif)
+![Demo CountPages alpha](https://j.gifs.com/xnXWyr.gif =250x250)
 
 И многие другие мелочи которые упростят работу!))
 
