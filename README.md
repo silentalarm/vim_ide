@@ -123,8 +123,8 @@ FAQ
 
 ##### <a name="Find"></a>
   Удобный и понтынй поиск по тексту:
-<img src="https://j.gifs.com/xnXWyr.gif" width="40" height="40" />
-![Demo CountPages alpha](https://j.gifs.com/xnXWyr.gif)
+
+<img src="https://j.gifs.com/xnXWyr.gif" width="640" height="480" />
 
 И многие другие мелочи которые упростят работу!))
 
