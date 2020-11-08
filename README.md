@@ -139,11 +139,11 @@ FAQ
 
 Для начала вам потребуется установить homebrew
 
-На компьютер школы то эту:
+На компьютер ШКОЛЫ то эту:
 
     curl -fsSL https://rawgit.com/kube/42homebrew/master/install.sh | zsh
 
-На личный компьютер используйте эту команду:
+На ЛИЧНЫЙ компьютер используйте эту команду:
 
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
