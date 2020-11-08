@@ -79,7 +79,17 @@ FAQ
 Для быстрой вставки готовых конструкций введите имя конструкции и нажмите
 
     CTRL + L и сразу L (без нажатого контрола)
-  
+    
+##### <a name="Easy"></a>
+Для [поиска по тексту](#Find) используейте слэш и после него то что хотите найти:
+
+    /<в место этого то что хотите найти и энтр>
+
+Красным он подсветит букв(ключи), если нажать эту букву то курсор перенесет на место буквы.
+Для хождения по найденым результатам используйте:
+
+     N - для хождения вперед или SHIFT + N для хождения назад
+
 Конструкции можно менять, чтобы поменять введите в терминал:
       
     vim ~/.vim/bundle/vim-snippets/UltiSnips/c.snippets
@@ -96,20 +106,25 @@ FAQ
 
    Можно вставлять сразу готовые конструкции:
    
-![Demo CountPages alpha](https://j.gifs.com/5QYQAK.gif)
+<img src="https://j.gifs.com/5QYQAK.gif" width="640" height="370" />
 
    Происходит проверка на ошибки, ранее используемые имена(например имена переменных чтобы не печатать просто нажимаем Tab),
 при открытии скобки, кавычки, фигурной скобки появляются закрывающие:
 
-![Demo CountPages alpha](https://j.gifs.com/r8O8g4.gif)
+<img src="https://j.gifs.com/r8O8g4.gif" width="640" height="350" />
 
    Рефакторинг:
     
-![Demo CountPages alpha](https://j.gifs.com/AN4NWP.gif)
+<img src="https://j.gifs.com/AN4NWP.gif" width="640" height="400" />
 
    Дерево проекта для быстрого переключения между файлами:
-   
-![Demo CountPages alpha](https://j.gifs.com/5QYQ1K.gif)
+
+<img src="https://j.gifs.com/5QYQ1K.gif" width="640" height="400" />
+
+##### <a name="Find"></a>
+  [Удобный и понятынй](#Easy) поиск по тексту:
+
+<img src="https://j.gifs.com/xnXWyr.gif" width="640" height="440" />
 
 И многие другие мелочи которые упростят работу!))
 
@@ -124,11 +139,11 @@ FAQ
 
 Для начала вам потребуется установить homebrew
 
-На компьютер школы то эту:
+На компьютер ШКОЛЫ то эту:
 
     curl -fsSL https://rawgit.com/kube/42homebrew/master/install.sh | zsh
 
-На личный компьютер используйте эту команду:
+На ЛИЧНЫЙ компьютер используйте эту команду:
 
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
@@ -284,6 +299,8 @@ https://github.com/LucHermitte/vim-refactor
 https://github.com/jeaye/color_coded
 
 https://github.com/42Paris/42header
+
+https://github.com/easymotion/vim-easymotion
 
 
 ##### <a name="Kont"></a>
