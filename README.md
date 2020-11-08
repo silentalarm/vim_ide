@@ -124,7 +124,7 @@ FAQ
 ##### <a name="Find"></a>
   Удобный и понтынй поиск по тексту:
 
-<img src="https://j.gifs.com/xnXWyr.gif" width="640" height="480" />
+<img src="https://j.gifs.com/xnXWyr.gif" width="640" height="440" />
 
 И многие другие мелочи которые упростят работу!))
 
