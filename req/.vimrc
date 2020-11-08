@@ -81,7 +81,7 @@ call vundle#end()
 filetype plugin indent on
 
 "refactor Ctrl + X, V - for varible 
-let b:usemarks         = 0
+let b:usemarks = 0
 let b:cb_jump_on_close = 1
 
 "let g:color_coded_enabled = 1
