@@ -106,20 +106,20 @@ FAQ
 
    Можно вставлять сразу готовые конструкции:
    
-![Demo CountPages alpha](https://j.gifs.com/5QYQAK.gif)
+<img src="https://j.gifs.com/5QYQAK.gif" width="640" height="480" />
 
    Происходит проверка на ошибки, ранее используемые имена(например имена переменных чтобы не печатать просто нажимаем Tab),
 при открытии скобки, кавычки, фигурной скобки появляются закрывающие:
 
-![Demo CountPages alpha](https://j.gifs.com/r8O8g4.gif)
+<img src="https://j.gifs.com/r8O8g4.gif" width="640" height="480" />
 
    Рефакторинг:
     
-![Demo CountPages alpha](https://j.gifs.com/AN4NWP.gif)
+<img src="https://j.gifs.com/AN4NWP.gif" width="640" height="480" />
 
    Дерево проекта для быстрого переключения между файлами:
-   
-![Demo CountPages alpha](https://j.gifs.com/5QYQ1K.gif)
+
+<img src="https://j.gifs.com/5QYQ1K.gif" width="640" height="480" />
 
 ##### <a name="Find"></a>
   Удобный и понтынй поиск по тексту:
