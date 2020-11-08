@@ -113,7 +113,7 @@ FAQ
 
   Удобный и понтынй поиск по тексту:
 
-![Demo CountPages alpha](https://j.gifs.com/gZzWyY.gif=250x250)
+![Demo CountPages alpha](https://j.gifs.com/gZzWyY.gif)
 
 И многие другие мелочи которые упростят работу!))
 
