@@ -81,7 +81,7 @@ FAQ
     CTRL + L и сразу L (без нажатого контрола)
     
 
-Для [поиска пот тексту](#Find) используейте слэш и после него то что хотите найти:
+Для [поиска по тексту](#Find) используейте слэш и после него то что хотите найти:
 
     /<в место этого то что хотите найти и энтр>
 
@@ -299,6 +299,8 @@ https://github.com/LucHermitte/vim-refactor
 https://github.com/jeaye/color_coded
 
 https://github.com/42Paris/42header
+
+https://github.com/easymotion/vim-easymotion
 
 
 ##### <a name="Kont"></a>
