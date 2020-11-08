@@ -122,7 +122,7 @@ FAQ
 <img src="https://j.gifs.com/5QYQ1K.gif" width="640" height="400" />
 
 ##### <a name="Find"></a>
-  [Удобный](#Easy) и понтынй поиск по тексту:
+  [Удобный и понятынй](#Easy) поиск по тексту:
 
 <img src="https://j.gifs.com/xnXWyr.gif" width="640" height="440" />
 
