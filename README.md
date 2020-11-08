@@ -106,16 +106,16 @@ FAQ
 
    Можно вставлять сразу готовые конструкции:
    
-<img src="https://j.gifs.com/5QYQAK.gif" width="640" height="480" />
+<img src="https://j.gifs.com/5QYQAK.gif" width="640" height="400" />
 
    Происходит проверка на ошибки, ранее используемые имена(например имена переменных чтобы не печатать просто нажимаем Tab),
 при открытии скобки, кавычки, фигурной скобки появляются закрывающие:
 
-<img src="https://j.gifs.com/r8O8g4.gif" width="640" height="480" />
+<img src="https://j.gifs.com/r8O8g4.gif" width="640" height="400" />
 
    Рефакторинг:
     
-<img src="https://j.gifs.com/AN4NWP.gif" width="640" height="480" />
+<img src="https://j.gifs.com/AN4NWP.gif" width="640" height="400" />
 
    Дерево проекта для быстрого переключения между файлами:
 
