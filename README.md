@@ -115,7 +115,7 @@ FAQ
 
    Рефакторинг:
     
-<img src="https://j.gifs.com/AN4NWP.gif" width="640" height="350" />
+<img src="https://j.gifs.com/AN4NWP.gif" width="640" height="380" />
 
    Дерево проекта для быстрого переключения между файлами:
 
