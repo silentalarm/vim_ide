@@ -77,6 +77,8 @@ Plugin 'LucHermitte/lh-brackets'
 Plugin 'LucHermitte/vim-refactor'
 "hightlighting code 
 "Plugin 'jeaye/color_coded'
+"find in text
+Plugin 'easymotion/vim-easymotion'
 call vundle#end()
 filetype plugin indent on
 
@@ -121,3 +123,22 @@ let g:UltiSnipsJumpBackwardTrigger = '<C-t>'
 colorscheme molokai "codedark
 let g:airline_theme = 'molokai'
 
+
+function! s:config_easyfuzzymotion(...) abort
+  return extend(copy({
+  \   'converters': [incsearch#config#fuzzyword#converter()],
+  \   'modules': [incsearch#config#easymotion#module({'overwin': 1})],
+  \   'keymap': {"\<CR>": '<Over>(easymotion)'},
+  \   'is_expr': 0,
+  \   'is_stay': 1
+  \ }), get(a:, 1, {}))
+endfunction
+
+noremap <silent><expr> <Space>/ incsearch#go(<SID>config_easyfuzzymotion())
+
+map  / <Plug>(easymotion-sn)
+omap / <Plug>(easymotion-tn)
+
+"/<name>   n to select next, shift + n select prev
+map  n <Plug>(easymotion-next)
+map  N <Plug>(easymotion-prev)
