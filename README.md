@@ -111,6 +111,10 @@ FAQ
    
 ![Demo CountPages alpha](https://j.gifs.com/5QYQ1K.gif)
 
+  Удобный и понтынй поиск по тексту:
+
+![Demo CountPages alpha](https://j.gifs.com/vlV6LX.gif)
+
 И многие другие мелочи которые упростят работу!))
 
 ##### <a name="Install"></a>
