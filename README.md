@@ -163,7 +163,7 @@ FAQ
 
     git clone https://github.com/s1lentalarm/vim_ide.git
 
-И используйте эту команду в терминале:
+Зайдите в папку vim_ide и используйте эту команду в терминале:
 
     ./install_ide.sh up
 
